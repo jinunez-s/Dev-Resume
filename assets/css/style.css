@@ -53,7 +53,7 @@ body{
 }
 
 .scroll-bar{
-    animation: mover 1.5s infinite alternate;
+    animation: mover 1.6s infinite alternate;
 }
 
 @keyframes mover{
