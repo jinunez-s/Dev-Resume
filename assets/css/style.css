@@ -62,11 +62,16 @@ body{
 }
 
 
-/*-------NAVBAR------*/
+/*---------------------------NAVBAR-----------------------*/
+
 #nav-bar{
     position: sticky;
     z-index: 10;
     top: 0;
+}
+
+.logo-img{
+    border-radius: 50%;
 }
 
 
